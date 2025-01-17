@@ -1,8 +1,3 @@
-Great! You’ve deployed your Heart Disease Prediction App to **Hugging Face Spaces**. Now, let me help you create a **README** specifically for your Hugging Face Space.
-
-You can use this README template and adjust it accordingly:
-
----
 
 # Heart Attack Prediction App
 
